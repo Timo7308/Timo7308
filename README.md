@@ -1,6 +1,8 @@
 # 💫 About Me:
 Im currently working on my personal website that was created with React.<br>Next to that I want to extend my knowledge about Machine Learning to<br>better understand how AI works. 
 
+My website: https://timo7308.github.io/web-page
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EgSnmupr8h) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ti_mo7308) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timo-schuchmann) 
