@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on my personal website that was created with React.<br>Next to that I want to extend my knowledge about Machine Learning to<br>better understand how AI works. 
+Im currently working on my personal website that was created with React.<br>Next to that I want to extend my knowledge in Machine Learning to<br>better understand how AI works. 
 
 My website: https://timo7308.github.io/web-page
 
